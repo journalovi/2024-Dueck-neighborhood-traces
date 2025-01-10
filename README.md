@@ -3,7 +3,7 @@
 Authors: @moritzdueck
 OC: Chat Wacharamanotham (@chatchavan)
 AE: James Eagan (@eaganj)
-R1: TBD
+R1: Michael Gleicher (@gleicher)
 R2: TBD
 R3: TBD
 ```
