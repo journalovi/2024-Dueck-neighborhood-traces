@@ -4,7 +4,7 @@ Authors: @moritzdueck
 OC: Chat Wacharamanotham (@chatchavan)
 AE: James Eagan (@eaganj)
 R1: Michael Gleicher (@gleicher)
-R2: TBD
+R2: Evan Peck (@evanpeck)
 R3: TBD
 ```
 
